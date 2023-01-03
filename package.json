@@ -1,6 +1,8 @@
 {
   "name": "creamy",
   "version": "1.0.0",
+  "engines": 
+  { "node": "16.17.0" },
   "description": "MERN Bakery cart app",
   "main": "server.js",
   "type": "module",
